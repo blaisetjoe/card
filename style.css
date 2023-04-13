@@ -8,3 +8,7 @@ body{
     background-color: rgb(8, 16, 32);
     color: white;
 }
+
+.card-footer{
+    color: aliceblue;
+}
