@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(4, 14, 22);
+}
+.card{
+    border: none;
+}
+.card-body{
+    background-color: rgb(8, 16, 32);
+    color: white;
+}
